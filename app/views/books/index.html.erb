@@ -1,0 +1,21 @@
+<% title 'Books' %>
+<div class="page-header">
+  <h1>Liberty Books</h1>
+</div>
+<% @books.each do |row| %>
+    <div class="row">
+      <% row.each do |book| %>
+          <div class="col-sm-4 col-md-3">
+            <div class="thumbnail">
+              <img class="center-block" src=<%= book.photo_url %>>
+              <div class="caption">
+                <h5><a href=<%= book_path(book.id) %>><%= book.title %></a></h5>
+                <h6><a href=<%= author_path(book.author.id) %>><%= book.author.name %></a></h6>
+                <a href="<%= book.amazon_url %>" class="btn btn-primary" role="button" >Amazon.com</a>
+                <a href="<%= book_path(book.id) %>" class="btn btn-primary" role="button" >View details</a>
+              </div>
+            </div>
+          </div>
+      <% end %>
+    </div>
+<% end %>

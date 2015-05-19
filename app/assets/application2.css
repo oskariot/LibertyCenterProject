@@ -1,0 +1,155 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+/* CSS used here will be applied after bootstrap.css */
+/* CSS used here will be applied after bootstrap.css */
+/* CSS used here will be applied after bootstrap.css */
+.dynamicTile .col-sm-2.col-xs-4{
+    padding:5px;
+}
+
+.dynamicTile .col-sm-4.col-xs-8{
+    padding:5px;
+}
+
+#tile1{
+    background: rgb(0,172,238);
+}
+
+#tile2{
+    background: rgb(175,26,63);
+}
+
+#tile3{
+    background: rgb(71,193,228);
+}
+
+#tile4{
+    background-image: url('http://handsontek.net/demoimages/tiles/facebook.png');
+    background-size: cover;
+}
+
+#tile5{
+    background: rgb(175,26,63);
+}
+
+#tile6{
+    background: grey;
+}
+
+#tile7{
+    background: white;
+}
+
+#tile8{
+    background: rgb(209, 123, 28);
+}
+
+#tile9{
+    background: rgb(0,142,0);
+}
+
+#tile10{
+    background: rgb(0,93,233);
+}
+.tilecaption{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    margin:0!important;
+    text-align: center;
+    color:white;
+    font-family: Segoe UI;
+    font-size: 17px;
+}
+.tilecaption.citation{
+    top: 50%;
+    font-size: 17px;
+    font-weight: lighter;
+}
+.tilecaption.author{
+    top: 50%;
+    font-size:  18px;
+    font-weight: bold;
+    top: 45%
+}
+.tilecaption.day{
+    top: 45%;
+    font-weight: bold;
+    font-size: 50px;
+}
+.tilecaption.dayweek{
+    top: 35%;
+    font-weight: lighter;
+    font-size: 17px;
+}
+.tilecaption.year{
+    top: 50%;
+    font-weight: bold;
+    font-size: 50px;
+}
+.tilecaption.tword{
+    top: 49%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.tilecaption.tlang{
+    top: 44%;
+    font-size: 11px;
+    font-weight: lighter;
+}
+img{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+th,td {
+    padding: 10px;
+}
+td.my {
+    height: 50px;
+    text-align: right;
+}
+table {
+    border-spacing: 40px;
+}
+img.my{
+    position: relative;
+    width:100%;
+    max-width:200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+div.my{
+    position: inherit;
+    margin-right: 2px;
+}
+div.mytext {
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 20px;
+}
+
+div.mytext2 {
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 20px;
+}

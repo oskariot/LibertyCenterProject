@@ -1,0 +1,136 @@
+---
+citations_001:
+  id: 2
+  body: Good ideas don't require force.
+  created_at: '2015-01-24 22:07:25.587076'
+  updated_at: '2015-01-28 23:59:57.113097'
+  author_id: 2
+  source: ''
+  published_at: 
+citations_002:
+  id: 3
+  body: There is nothing that is going to make people hate you more, and love you
+    more, than telling the truth.
+  created_at: '2015-01-24 22:07:25.741958'
+  updated_at: '2015-01-24 22:07:25.741958'
+  author_id: 1
+  source: 
+  published_at: 
+citations_003:
+  id: 4
+  body: I don't agree with what you say but i will defend to the death your right
+    to say it.
+  created_at: '2015-01-24 22:07:25.909813'
+  updated_at: '2015-01-27 20:02:59.996482'
+  author_id: 6
+  source: ''
+  published_at: 
+citations_004:
+  id: 5
+  body: Anybody who tries to change society without examining the family is trying
+    to push a shadow without moving a statue.
+  created_at: '2015-01-24 22:07:26.077245'
+  updated_at: '2015-01-24 22:07:26.077245'
+  author_id: 1
+  source: 
+  published_at: 
+citations_005:
+  id: 6
+  body: I define anarchist society as one where there is no legal possibility for
+    coercive aggression against the person or property of any individual.
+  created_at: '2015-01-24 22:07:26.245362'
+  updated_at: '2015-01-24 22:07:26.245362'
+  author_id: 4
+  source: 
+  published_at: 
+citations_006:
+  id: 7
+  body: Whoever wishes peace among people must fight statism.
+  created_at: '2015-01-24 22:07:26.412376'
+  updated_at: '2015-01-26 21:39:08.330084'
+  author_id: 5
+  source: ''
+  published_at: 
+citations_007:
+  id: 8
+  body: If history could teach us anything, it would be that private property is inextricably
+    linked with civilization.
+  created_at: '2015-01-24 22:07:26.590399'
+  updated_at: '2015-01-24 22:07:26.590399'
+  author_id: 5
+  source: 
+  published_at: 
+citations_008:
+  id: 9
+  body: The smallest minority on earth is the individual. Those who deny individual
+    rights cannot claim to be defenders of minorities.
+  created_at: '2015-01-24 22:07:26.769441'
+  updated_at: '2015-01-24 22:07:26.769441'
+  author_id: 3
+  source: 
+  published_at: 
+citations_009:
+  id: 12
+  body: Force and mind are opposites; morality ends where a gun begins.
+  created_at: '2015-01-27 13:14:02.099477'
+  updated_at: '2015-01-27 13:14:02.099477'
+  author_id: 3
+  source: ''
+  published_at: 
+citations_010:
+  id: 15
+  body: Devotion to the truth is the hallmark of morality; there is no greater, nobler,
+    more heroic form of devotion than the act of a man who assumes the responsibility
+    of thinking.
+  created_at: '2015-01-27 22:59:29.100106'
+  updated_at: '2015-01-29 18:26:01.003837'
+  author_id: 3
+  source: Atlas Shrugged
+  published_at: '1957-01-01 00:00:00.000000'
+citations_011:
+  id: 16
+  body: Libertarianism holds that the only proper role of violence is to defend person
+    and property against violence, that any use of violence that goes beyond such
+    just defence is itself aggressive, unjust, and criminal.
+  created_at: '2015-01-27 23:02:26.344602'
+  updated_at: '2015-01-27 23:02:26.344602'
+  author_id: 4
+  source: ''
+  published_at: 
+citations_012:
+  id: 17
+  body: It is dangerous to be right in matters on which the established authorities
+    are wrong.
+  created_at: '2015-01-27 23:04:30.654819'
+  updated_at: '2015-01-27 23:04:30.654819'
+  author_id: 6
+  source: ''
+  published_at: 
+citations_013:
+  id: 18
+  body: If taxation without consent is not robbery, then any band of robbers have
+    only to declare themselves a government, and all their robberies are legalized.
+  created_at: '2015-01-28 11:30:32.666216'
+  updated_at: '2015-01-28 11:30:32.666216'
+  author_id: 8
+  source: ''
+  published_at: 
+citations_014:
+  id: 19
+  body: A man's natural rights are his own, against the whole world; and any infringement
+    of them is equally a crime; whether committed by one man, or by millions; whether
+    committed by one man, calling himself a robber, or by millions calling themselves
+    a government.
+  created_at: '2015-01-28 11:40:54.222351'
+  updated_at: '2015-01-28 11:40:54.222351'
+  author_id: 8
+  source: 'No Treason: The Constitution of No Authority'
+  published_at: 
+citations_015:
+  id: 20
+  body: When Injustice becomes Law, Resistance becomes Duty.
+  created_at: '2015-01-28 17:13:34.598570'
+  updated_at: '2015-01-28 17:13:59.001718'
+  author_id: 2
+  source: ''
+  published_at: '2007-09-15 00:00:00.000000'

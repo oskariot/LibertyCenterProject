@@ -1,0 +1,71 @@
+<div class="page-header">
+  <h1>Liberty Center</h1>
+</div>
+<div class="container dynamicTile">
+  <!-- A -->
+  <div class="row ">
+    <!-- A1 -->
+    <%= render layout: 'tile', locals: {large: false, id: 1} do %>
+        <%= render partial: 'img_wrapper', locals: {content_list: @random_stickers1, link: false} %>
+    <% end %>
+    <!-- A2 -->
+    <%= render layout: 'tile', locals: {large: false, id: 2} do %>
+        <%= render partial: 'static_wrapper', locals: {link: links_path, content: StaticContent.last} %>
+    <% end %>
+    <!-- A3 -->
+    <%= render layout: 'tile', locals: {large: false, id: 3} do %>
+        <% @random_translations.each_with_index do |trans,index| %>
+            <div class="item <%= 'active' if index == 0 %>">
+              <h3 class="tilecaption tword"><%= trans.word %></h3>
+              <h3 class="tilecaption tlang"><i><%= trans.lang %></i></h3>
+            </div>
+        <% end %>
+    <% end %>
+    <!-- A4 -->
+    <%= render layout: 'tile', locals: {large: false, id: 4} do %>
+        <% @random_authors.each_with_index do |aut,index| %>
+            <div class="item <%= 'active' if index == 0 %>">
+              <a href=<%= author_path(aut.id) %> >
+                <img src=<%= aut.profile.photo_url %> class="img-responsive">
+              </a>
+            </div>
+        <% end %>
+    <% end %>
+    <!-- A5 -->
+    <%= render layout: 'tile', locals: {large: false, id: 5} do %>
+        <%= render partial: 'img_wrapper', locals: {content_list: @random_stickers2, link: false} %>
+    <% end %>
+    <!-- A6 -->
+    <%= render layout: 'tile', locals: {large: false, id: 6} do %>
+        <div class="item active">
+          <h3 class="tilecaption day"><%= Time.now.day %></h3>
+          <h3 class="tilecaption dayweek"><%= Time.now.strftime('%A')%></h3>
+        </div>
+    <% end %>
+  </div>
+  <!-- B -->
+  <div class="row">
+    <!-- B1 long -->
+    <%= render layout: 'tile', locals: {large: true, id: 7} do %>
+        <%= render partial: 'img_wrapper', locals: {content_list: @random_wide_photos, link: false} %>
+    <% end %>
+    <!-- B2 -->
+    <%= render layout: 'tile', locals: {large: false, id: 8} do %>
+        <%= render partial: 'img_wrapper', locals: {content_list: @random_books, link: true} %>
+    <% end %>
+    <!-- B3 -->
+    <%= render layout: 'tile', locals: {large: false, id: 9} do %>
+        <%= render partial: 'static_wrapper', locals: {link: @facebook_path, content: StaticContent.first} %>
+    <% end %>
+    <!-- B4 -->
+    <%= render layout: 'tile', locals: {large: true, id: 10} do %>
+        <% @random_citations.each_with_index do |cit,index| %>
+            <div class="item <%= 'active' if index == 0 %>">
+              <a href=<%= citation_path(cit.id) %>><h3 class="tilecaption citation"><i><%= cit.body %></i><br>
+                <%= cit.author.name %></h3></a>
+            </div>
+        <% end %>
+    <% end %>
+  </div>
+</div></div>
+<div id="push"></div>

@@ -1,0 +1,20 @@
+<% title "Authors" %>
+<div class="page-header">
+  <h1>Liberty Authors</h1>
+</div>
+
+<% @authors.each do |row| %>
+    <div class="row">
+      <% row.each do |author| %>
+          <div class="col-sm-6 col-md-2">
+            <div class="thumbnail authors">
+              <img class="center-block" src=<%= author.profile.photo_url %>>
+              <div class="caption">
+                <h6 align="center"><a href=<%= author_path(author.id) %>><%= author.name %></a></h6>
+                <a href="<%= author_path(author.id) %>" class="btn btn-primary authors" role="button" >View profile</a>
+              </div>
+            </div>
+          </div>
+      <% end %>
+    </div>
+<% end %>

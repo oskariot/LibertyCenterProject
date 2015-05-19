@@ -1,0 +1,45 @@
+<% title 'Author' %>
+<div class="page-header">
+  <h1><%= "#{@author.name}" %></h1>
+</div>
+<div class="row">
+  <div class=".col-md-1 my">
+      <div class="mytext">
+          <% profile = @author.profile %>
+          <img class="my" src= <%= profile.photo_url %> align="left">
+          <strong><%= profile.full_name %></strong>
+            <% unless profile.birth_date.nil? then %>
+                <% unless profile.death_date.nil? then %>
+                    <%= '('+profile.birth_date.strftime('%-d %B %Y') %> - <%= profile.death_date.strftime('%-d %B %Y')+')' %>
+                <% else %>
+                    <%= '(born '+profile.birth_date.strftime('%-d %B %Y')+')' %>
+                <% end %>
+            <% end %>
+          <br>
+          <%= profile.about %>
+      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="mytext2">
+    <h5>
+        <% unless @author.books.empty? %>
+            Liberty books:
+            <% books = @author.books.to_a %>
+              <a href=<%= book_path(books.first.id) %>><%= books.first.title %></a>
+            <% books.drop(1).each do |book| %>
+            , <a href=<%= book_path(book.id) %>><%= book.title %></a>
+            <% end %>
+        <% end %>
+        <br>
+        <%= render partial: 'shared/list_tags', locals: {tags: @author.categories}%>
+    </h5>
+    <%= link_to 'View all Authors', authors_path %>
+  </div>
+</div>
+<% unless @author.citations.empty? then %>
+<div class="page-header">
+  <h3><%= "#{@author.name}'s quotes:" %></h3>
+</div>
+    <%= render partial: 'shared/list_citations', locals: {citations_list: @author.citations}%>
+<% end %>

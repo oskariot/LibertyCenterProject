@@ -1,0 +1,9 @@
+<h6 class="my2">
+  <% unless tags.empty? then %>
+      <a href=<%= category_path(tags.first.id) %>>
+        <%= tags.first.name %></a>
+      <% tags.drop(1).each do |tag| %><a href=<%= category_path(tag.id) %>>
+          , <%= tag.name %></a>
+      <% end %>
+  <% end %>
+</h6>

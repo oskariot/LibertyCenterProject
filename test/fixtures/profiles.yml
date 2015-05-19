@@ -1,0 +1,153 @@
+---
+profiles_001:
+  id: 1
+  full_name: Alissa Zinowiewna Rosenbaum
+  birth_date: '1905-02-02 00:00:00.000000'
+  death_date: '1982-03-06 00:00:00.000000'
+  about: 'Ayn Rand was a Russian-American novelist and philosopher. She is most famous
+    for her novels The Fountainhead (1943) and Atlas Shrugged (1957). Other literature
+    attributed to her is We the Living (1936), Night of January 16th (1934), and Anthem
+    (1938). Her non-fiction titles include For the New Intellectual (1961), The Virtue
+    of Selfishness (1964), Capitalism: The Unknown Ideal (1966), The Romantic Manifesto
+    (1969), The New Left: The Anti-Industrial Revolution (1971), Introduction to Objectivist
+    Epistemology (1979), and Philosophy: Who Needs It? (1982). She was a laissez-faire
+    capitalist, but refused to call herself a libertarian on the grounds that she
+    didn''t want to associate herself with anarchists. '
+  author_id: '3'
+  created_at: '2015-01-24 22:07:26.955330'
+  updated_at: '2015-01-28 21:19:33.965589'
+  photo_url: http://upload.wikimedia.org/wikipedia/en/3/32/Ayn_Rand1.jpg
+profiles_002:
+  id: 2
+  full_name: Stefan Basil Molyneux
+  birth_date: '1966-09-24 00:00:00.000000'
+  death_date: 
+  about: is a Canadian philosopher, blogger, essayist, author, and host of the Freedomain
+    Radio series of podcasts, living in Mississauga, Canada. He has written numerous
+    articles and smaller essays which have been published on libertarian websites
+    such as LewRockwell.com, antiwar.com and Strike The Root, recorded over 1700 podcasts,
+    produced over 500 videos, and written numerous books which are all self-published
+    except for his first, which was published by Publish America. In 2006 Stefan Molyneux
+    quit his previous job in the field of computer software and works full-time on
+    Freedomain Radio, a philosophical community website which is funded through voluntary
+    donations.
+  author_id: '1'
+  created_at: '2015-01-24 22:07:27.137765'
+  updated_at: '2015-01-28 21:52:48.056607'
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/f/fd/Stefan_Molyneux_2014-02-10.jpg
+profiles_003:
+  id: 3
+  full_name: Francois-Marie Arouet
+  birth_date: '1694-01-01 00:00:00.000000'
+  death_date: '1778-05-30 00:00:00.000000'
+  about: known by his nom de plume Voltaire was a French Enlightenment writer, historian,
+    and philosopher famous for his wit, his attacks on the established Catholic Church,
+    and his advocacy of freedom of religion, freedom of expression, and separation
+    of church and state. Voltaire was a versatile writer, producing works in almost
+    every literary form, including plays, poems, novels, essays, and historical and
+    scientific works. He wrote more than 20,000 letters and more than 2,000 books
+    and pamphlets. He was an outspoken advocate, despite the risk this placed him
+    in under the strict censorship laws of the time. As a satirical polemicist, he
+    frequently made use of his works to criticize intolerance, religious dogma, and
+    the French institutions of his day.
+  author_id: '6'
+  created_at: '2015-01-24 22:07:27.305172'
+  updated_at: '2015-01-28 22:06:15.468906'
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg/640px-Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg
+profiles_004:
+  id: 4
+  full_name: Adam Charles Kokesh
+  birth_date: '1982-02-01 00:00:00.000000'
+  death_date: 
+  about: is an American libertarian talk show host, activist, and author of FREEDOM!
+    A decorated veteran of the War in Iraq, Kokesh came to disparage war and advocate
+    nonviolent resistance to power. Variously identifying as anarchist, anarcho-capitalist,
+    agorist, voluntaryist, Kokesh has called for a "new American revolution" for the
+    "orderly dissolution of the federal government."
+  author_id: '2'
+  created_at: '2015-01-24 22:07:27.472517'
+  updated_at: '2015-01-28 21:53:42.268681'
+  photo_url: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6pAlhlnAZnigIfLWzXKo8vvjis0KDkOuaQTsviAnmBeW5nhhf
+profiles_005:
+  id: 5
+  full_name: Murray Newton Rothbard
+  birth_date: '1926-03-02 00:00:00.000000'
+  death_date: '1995-01-07 00:00:00.000000'
+  about: "was an economist, scholar, intellectual and polymath who made major contributions
+    in economics, political philosophy (libertarianism in particular), economic history
+    and legal theory. He developed and extended the Austrian School of economics based
+    on the earlier pioneering work of Ludwig von Mises. Rothbard eventually established
+    himself as the principal Austrian theorist in the latter half of the twentieth
+    century and applied Austrian analysis to historical topics such as the Great Depression
+    of 1929 and the history of American banking.\r\n\r\nRothbard combined Austrian
+    economics with a fervent commitment to individual liberty. He developed a unique
+    synthesis that combined themes from nineteenth-century American individualist-anarchists
+    such as Lysander Spooner and Benjamin Tucker with Austrian economics. A new political
+    philosophy was the result, and Rothbard devoted his remarkable intellectual energy,
+    over a period of some forty-five years, to developing and promoting his style
+    of libertarianism. In doing so, he became a major American public intellectual.\r\n\r\nBuilding
+    on the Austrian School's concept of spontaneous order, support for a free market
+    in money production and condemnation of central planning, Rothbard advocated abolition
+    of coercive government control of the economy. He considered the monopoly force
+    of government the greatest danger to liberty and the long-term well-being of the
+    populace, labeling the State as nothing but a \"a bandit gang writ large\"—the
+    locus of the most immoral, grasping and unscrupulous individuals in any society."
+  author_id: '4'
+  created_at: '2015-01-24 22:07:27.639975'
+  updated_at: '2015-01-28 21:28:30.267415'
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/7/7e/MurrayBW.jpg
+profiles_006:
+  id: 6
+  full_name: Ludwig Heinrich Edler von Mises
+  birth_date: '1881-09-29 00:00:00.000000'
+  death_date: '1973-10-10 00:00:00.000000'
+  about: "was one of the most notable economists and social philosophers of the twentieth
+    century. In the course of a long and highly productive life, he developed an integrated,
+    deduct­ive science of economics based on the fundamental axiom that in­dividual
+    human beings act purposively to achieve desired goals. Even though his economic
+    analysis itself was \"value-free\" — in the sense of being irrelevant to values
+    held by economists — Mises concluded that the only viable economic policy for
+    the human race was a policy of unrestricted laissez-faire, of free markets and
+    the unhampered exercise of the right of private property, with government strictly
+    limited to the defense of person and property within its territorial area.\r\nFor
+    Mises was able to demonstrate (a) that the expansion of free markets, the division
+    of labor, and private capital investment is the only possible path to the prosperity
+    and flourishing of the human race; (b) that socialism would be disastrous for
+    a modern economy because the absence of private ownership of land and capital
+    goods prevents any sort of rational pricing, or estimate of costs, and (c) that
+    government intervention, in addition to hampering and crippling the market, would
+    prove counter-productive and cumulative, leading inevitably to socialism unless
+    the entire tissue of interventions was repealed.\r\nHolding these views, and hewing
+    to truth indomitably in the face of a century increasingly devoted to statism
+    and collectivism, Mises became famous for his \"intransigence\" in insisting on
+    a non-inflationary gold standard and on laissez-faire."
+  author_id: '5'
+  created_at: '2015-01-24 22:07:27.807219'
+  updated_at: '2015-01-28 22:01:10.784806'
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/f/f0/Ludwig_von_Mises.jpg
+profiles_007:
+  id: 7
+  full_name: Hans-Hermann Hoppe
+  birth_date: '1949-09-02 00:00:00.000000'
+  death_date: 
+  about: is Professor Emeritus of Economics at the University of Nevada, Las Vegas
+    and Distinguished Fellow at the Mises Institute. Author of a famous book "Democracy
+    the god that failed".
+  author_id: '7'
+  created_at: '2015-01-27 15:39:02.813506'
+  updated_at: '2015-01-28 22:03:59.987098'
+  photo_url: http://libertarianin.org/wp-content/uploads/2014/01/hans-hermann-hoppe.jpg
+profiles_008:
+  id: 8
+  full_name: Lysander Sponner
+  birth_date: '1808-01-19 00:00:00.000000'
+  death_date: '1887-05-14 00:00:00.000000'
+  about: "was an American lawyer, author and libertarian activist.\r\nAmong his most
+    famous writings was No Treason, a lengthy essay on the illegitimacy of the Constitution
+    of the United States. Spooner differed from most of his fellow individualist anarchists
+    of the period, such as Benjamin Tucker, in his absolute recognition of intellect
+    as property."
+  author_id: '8'
+  created_at: '2015-01-28 11:22:15.019907'
+  updated_at: '2015-01-28 21:41:32.346411'
+  photo_url: http://www.theadvocates.org/wp-content/uploads/2010/08/lysander-spooner-2.jpg

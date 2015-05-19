@@ -1,0 +1,9 @@
+<div class="<%= unless large then 'col-sm-2 col-xs-4' else 'col-sm-4 col-xs-8' end %>">
+  <div id="tile<%= id %>" class="tile">
+    <div class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <%= yield %>
+      </div>
+    </div>
+  </div>
+</div>

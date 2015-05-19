@@ -1,0 +1,56 @@
+---
+categories_001:
+  id: 1
+  name: Politics
+  created_at: '2015-01-24 22:07:23.525142'
+  updated_at: '2015-01-24 22:07:23.525142'
+categories_002:
+  id: 2
+  name: Ethics
+  created_at: '2015-01-24 22:07:23.696747'
+  updated_at: '2015-01-24 22:07:23.696747'
+categories_003:
+  id: 3
+  name: Freedom
+  created_at: '2015-01-24 22:07:23.864160'
+  updated_at: '2015-01-24 22:07:23.864160'
+categories_004:
+  id: 4
+  name: Religion
+  created_at: '2015-01-24 22:07:24.031513'
+  updated_at: '2015-01-24 22:07:24.031513'
+categories_005:
+  id: 5
+  name: Philosophy
+  created_at: '2015-01-24 22:07:24.198736'
+  updated_at: '2015-01-24 22:07:24.198736'
+categories_006:
+  id: 6
+  name: Government
+  created_at: '2015-01-24 22:07:24.379231'
+  updated_at: '2015-01-24 22:07:24.379231'
+categories_007:
+  id: 7
+  name: Anarchism
+  created_at: '2015-01-24 22:07:24.546682'
+  updated_at: '2015-01-24 22:07:24.546682'
+categories_008:
+  id: 8
+  name: Peaceful parenting
+  created_at: '2015-01-24 22:07:24.714015'
+  updated_at: '2015-01-24 22:07:24.714015'
+categories_009:
+  id: 9
+  name: Voluntaryism
+  created_at: '2015-01-24 22:07:24.881405'
+  updated_at: '2015-01-24 22:07:24.881405'
+categories_010:
+  id: 10
+  name: Economy
+  created_at: '2015-01-24 22:07:25.037669'
+  updated_at: '2015-01-24 22:07:25.037669'
+categories_011:
+  id: 11
+  name: Society
+  created_at: '2015-01-24 22:07:25.208455'
+  updated_at: '2015-01-24 22:07:25.208455'

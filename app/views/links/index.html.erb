@@ -1,0 +1,17 @@
+<% title "Links" %>
+<div class="page-header">
+  <h1>Links</h1>
+</div>
+<table>
+  <% for link in @links %>
+    <tr>
+      <td>
+        <%= link.name %><br>
+        <%= link_to link.url, link.url %><br>
+        <%= link.description unless link.description.nil? %><br>
+      </td>
+    </tr>
+  <% end %>
+</table>
+
+

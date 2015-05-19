@@ -1,0 +1,41 @@
+---
+stickers_001:
+  id: 1
+  url: http://www.healthyhabitsolutions.com/images/freedom.jpg
+  created_at: '2015-01-27 16:11:28.998245'
+  updated_at: '2015-01-27 16:11:28.998245'
+stickers_002:
+  id: 2
+  url: http://www.lysanderparks.com/uploads/2/5/0/9/25094228/5436976_orig.jpg
+  created_at: '2015-01-27 16:13:59.503329'
+  updated_at: '2015-01-27 16:15:40.778136'
+stickers_003:
+  id: 3
+  url: https://thomasmoreinstitute.files.wordpress.com/2011/01/sunset_ada_02230.jpg
+  created_at: '2015-01-27 16:26:38.017523'
+  updated_at: '2015-01-27 17:30:52.594935'
+stickers_004:
+  id: 4
+  url: https://s-media-cache-ak0.pinimg.com/236x/07/6b/73/076b73a6b798c9ff74f33a447de76adf.jpg
+  created_at: '2015-01-27 17:27:14.850901'
+  updated_at: '2015-01-27 17:27:14.850901'
+stickers_005:
+  id: 8
+  url: http://www.truthimpact.me/wp-content/uploads/2012/07/iStock_000017286589Medium-600x600.jpg
+  created_at: '2015-01-27 20:31:56.528617'
+  updated_at: '2015-01-27 20:31:56.528617'
+stickers_006:
+  id: 9
+  url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IKyYqTmiHOIR6ZS_yBYAdX_HS_VGn5At47V11szflHNhrWFt
+  created_at: '2015-01-27 20:36:23.770984'
+  updated_at: '2015-01-27 20:36:23.770984'
+stickers_007:
+  id: 11
+  url: http://www.overthinkingit.com/wp-content/uploads/2009/02/rockefeller_plaza.jpg
+  created_at: '2015-01-27 20:39:53.995989'
+  updated_at: '2015-01-27 20:39:53.995989'
+stickers_008:
+  id: 14
+  url: http://cdn.ipsnoticias.net/wp-content/uploads/2013/09/bitcoin_goldv2-472x472.jpg
+  created_at: '2015-01-27 21:48:21.061519'
+  updated_at: '2015-01-28 13:10:16.962928'

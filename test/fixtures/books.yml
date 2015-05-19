@@ -1,0 +1,254 @@
+---
+books_001:
+  id: 1
+  title: Atlas Shrugged
+  photo_url: http://www.theliberaloc.com/wp-content/uploads/2013/02/atlas-shrugged-sg-amazon.jpg
+  about: "At last, Ayn Rand's masterpiece is available to her millions of loyal readers
+    in trade paperback.\r\nWith this acclaimed work and its immortal query, \"Who
+    is John Galt?\", Ayn Rand found the perfect artistic form to express her vision
+    of existence. Atlas Shrugged made Rand not only one of the most popular novelists
+    of the century, but one of its most influential thinkers.\r\nAtlas Shrugged is
+    the astounding story of a man who said that he would stop the motor of the world--and
+    did. Tremendous in scope, breathtaking in its suspense, Atlas Shrugged stretches
+    the boundaries further than any book you have ever read. It is a mystery, not
+    about the murder of a man's body, but about the murder--and rebirth--of man's
+    spirit.\r\nAtlas Shrugged is the \"second most influential book for Americans
+    today\" after the Bible, according to a joint survey conducted by the Library
+    of Congress and the Book of the Month Club. [amazon.com]"
+  author_id: 3
+  created_at: '2015-01-27 12:50:50.321447'
+  updated_at: '2015-01-29 16:37:39.964147'
+  amazon_url: http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0452011876/ref=sr_1_2?ie=UTF8&qid=1422544224&sr=8-2&keywords=atlas+shrugged
+books_002:
+  id: 2
+  title: 'Democracy: The God That Failed'
+  photo_url: http://ecx.images-amazon.com/images/I/71THXVW7f-L.jpg
+  about: "The core of this book is a systematic treatment of the historic transformation
+    of the West from monarchy to democracy. Revisionist in nature, it reaches the
+    conclusion that monarchy is a lesser evil than democracy, but outlines deficiencies
+    in both. Its methodology is axiomatic-deductive, allowing the writer to derive
+    economic and sociological theorems, and then apply them to interpret historical
+    events.\r\n\r\nA compelling chapter on time preference describes the progress
+    of civilization as lowering time preferences as capital structure is built, and
+    explains how the interaction between people can lower time all around, with interesting
+    parallels to the Ricardian Law of Association. By focusing on this transformation,
+    the author is able to interpret many historical phenomena, such as rising levels
+    of crime, degeneration of standards of conduct and morality, and the growth of
+    the mega-state. In underscoring the deficiencies of both monarchy and democracy,
+    the author demonstrates how these systems are both inferior to a natural order
+    based on private-property.\r\nHoppe deconstructs the classical liberal belief
+    in the possibility of limited government and calls for an alignment of conservatism
+    and libertarianism as natural allies with common goals. He defends the proper
+    role of the production of defense as undertaken by insurance companies on a free
+    market, and describes the emergence of private law among competing insurers. Having
+    established a natural order as superior on utilitarian grounds, the author goes
+    on to assess the prospects for achieving a natural order. Informed by his analysis
+    of the deficiencies of social democracy, and armed with the social theory of legitimation,
+    he forsees secession as the likely future of the US and Europe, resulting in a
+    multitude of region and city-states. This book complements the author's previous
+    work defending the ethics of private property and natural order. Democracy—The
+    God that Failed will be of interest to scholars and students of history, political
+    economy, and political philosophy. [amazon.com]"
+  author_id: 7
+  created_at: '2015-01-27 15:36:35.772807'
+  updated_at: '2015-01-29 16:37:55.041522'
+  amazon_url: http://www.amazon.com/Democracy---God-That-Failed-Economics/dp/0765808684/ref=sr_1_1?ie=UTF8&qid=1422544201&sr=8-1&keywords=democracy+the+god+that+failed
+books_003:
+  id: 3
+  title: Human Action
+  photo_url: data:image/jpeg;base64,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
+  about: 'In the foreword to Human Action: A Treatise on Economics, Mises explains
+    complex market phenomena as "the outcomes of countless conscious, purposive actions,
+    choices, and preferences of individuals, each of whom was trying as best as he
+    or she could under the circumstances to attain various wants and ends and to avoid
+    undesired consequences." It is individual choices in response to personal subjective
+    value judgments that ultimately determine market phenomena—supply and demand,
+    prices, the pattern of production, and even profits and losses. Although governments
+    may presume to set "prices," it is individuals who, by their actions and choices
+    through competitive bidding for money, products, and services, actually determine
+    "prices". Thus, Mises presents economics—not as a study of material goods, services,
+    and products—but as a study of human actions. He sees the science of human action,
+    praxeology, as a science of reason and logic, which recognizes a regularity in
+    the sequence and interrelationships among market phenomena. Mises defends the
+    methodology of praxeology against the criticisms of Marxists, socialists, positivists,
+    and mathematical statisticians.Mises attributes the tremendous technological progress
+    and the consequent increase in wealth and general welfare in the last two centuries
+    to the introduction of liberal government policies based on free-market economic
+    teachings, creating an economic and political environment which permits individuals
+    to pursue their respective goals in freedom and peace. Mises also explains the
+    futility and counter-productiveness of government attempts to regulate, control,
+    and equalize all people''s circumstances: "Men are born unequal and ... it is
+    precisely their inequality that generates social cooperation and civilization."Ludwig
+    von Mises (1881–1973) was the leading spokesman of the Austrian School of Economics
+    throughout most of the twentieth century. He earned his doctorate in law and economics
+    from the University of Vienna in 1906. In 1926, Mises founded the Austrian Institute
+    for Business Cycle Research. From 1909 to 1934, he was an economist for the Vienna
+    Chamber of Commerce. Before the Anschluss, in 1934 Mises left for Geneva, where
+    he was a professor at the Graduate Institute of International Studies until 1940,
+    when he emigrated to New York City. From 1948 to 1969, he was a visiting professor
+    at New York University.Bettina Bien Greaves is a former resident scholar, trustee,
+    and longtime staff member of the Foundation for Economic Education. She has written
+    and lectured extensively on topics of free market economics. Her articles have
+    appeared in such journals as Human Events, Reason, and The Freeman: Ideas on Liberty.
+    A student of Mises, Greaves has become an expert on his work in particular and
+    that of the Austrian School of economics in general. She has translated several
+    Mises monographs, compiled an annotated bibliography of his work, and edited collections
+    of papers by Mises and other members of the Austrian School. [amazon.com]'
+  author_id: 5
+  created_at: '2015-01-27 15:45:31.216407'
+  updated_at: '2015-01-29 16:49:14.732865'
+  amazon_url: http://www.amazon.com/Human-Action-NONE-Ludwig-Mises-ebook/dp/B0078XFZKW/ref=sr_1_4?ie=UTF8&qid=1422544153&sr=8-4&keywords=human+action
+books_004:
+  id: 4
+  title: The tyranny of illusion
+  photo_url: https://freedomainradio.com/Portals/1/Users/ontruth_book.png
+  about: "From a short-term, merely practical standpoint, you really do not want to
+    read this book. This book will mess up your life, as you know it. This book will
+    change every single one of your relationships - most importantly, your relationship
+    with yourself. This book will change your life even if you never implement a single
+    one of the proposals it contains.\r\nThis book will change you even if you disagree
+    with every single idea it puts forward. Even if you put it down right now, this
+    book will have changed your life, because now you know that you are afraid of
+    change.\r\nWe are born to truth, yet everywhere we are enmeshed in error. Superstition,
+    irrationality and patriotism all work to cripple our natural affinities to rationality
+    and empiricism.\r\nThis book, by Stefan Molyneux, host of Freedomain Radio, examines
+    and explodes all the propaganda that stands between you and the simple truth of
+    life, the universe and everything. All the truths that you were born with, that
+    were scrubbed out of your mind for the profit and fun of your elders, will be
+    reawakened in this short but powerful book.\r\nBegin the process of reclaiming
+    your own reason, pick up this book, hold on for the ride, and arrive at the truth.
+    [introduction]"
+  author_id: 1
+  created_at: '2015-01-27 15:46:54.236081'
+  updated_at: '2015-01-29 16:37:19.948425'
+  amazon_url: http://www.amazon.com/Truth-Tyranny-Illusion-Freedomain-Radio-ebook/dp/B004Z806BG/ref=sr_1_1?ie=UTF8&qid=1422544128&sr=8-1&keywords=tyranny+of+illusion
+books_005:
+  id: 5
+  title: Freedom!
+  photo_url: http://shop.thefreedomline.com/images/1408424971900364818957.png
+  about: "The wisdom within these pages has the power to unlock our potential as a
+    species and establish an enduring civilization based on peace, self-ownership,
+    and nonviolence.\r\nYou, as a free, beautiful, independent human being with inalienable
+    rights, own yourself! You can do what you want with your own body and the product
+    of your labor. All human interactions should be free of force and coercion, and
+    we are free to exercise our rights, limited only by respect for the rights of
+    others. Governments rely on force, and force is a poor substitute for persuasion.
+    When you learned \"don't hit,\" \"don't steal,\" and “don’t kill,” it wasn't,
+    \"unless you work for the government.\" Governments frighten us into thinking
+    we need them, but we are moving past the statist paradigm and rendering them obsolete.\r\nThis
+    book will empower YOU to be more happy, free, and prosperous, while putting you
+    in a position to help shape our destiny. [amazon.com]"
+  author_id: 2
+  created_at: '2015-01-27 15:49:58.656974'
+  updated_at: '2015-01-29 16:38:51.228860'
+  amazon_url: http://www.amazon.com/FREEDOM-Adam-Kokesh-ebook/dp/B00KR9V03K/ref=sr_1_8?ie=UTF8&qid=1422544106&sr=8-8&keywords=freedom!
+books_006:
+  id: 6
+  title: For a New Liberty
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/For_A_New_Liberty.png/200px-For_A_New_Liberty.png
+  about: 'A classic that for over two decades has been hailed as the best general
+    work on libertarianism available. Rothbard begins with a quick overview of its
+    historical roots, and then goes on to define libertarianism as resting "upon one
+    single axiom: that no man or group of men shall aggress upon the person or property
+    of anyone else." He writes a withering critique of the chief violator of liberty:
+    the State. Rothbard then provides penetrating libertarian solutions for many of
+    today''s most pressing problems, including poverty, war, threats to civil liberties,
+    the education crisis, and more. [amazon.com]'
+  author_id: 4
+  created_at: '2015-01-27 20:09:58.321832'
+  updated_at: '2015-01-29 16:39:44.545452'
+  amazon_url: http://www.amazon.com/New-Liberty-Libertarian-Manifesto/dp/1478280719/ref=sr_1_1?ie=UTF8&qid=1422544087&sr=8-1&keywords=for+a+new+liberty
+books_007:
+  id: 7
+  title: Man, Economy and State
+  photo_url: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rothbard-MES.jpg/150px-Rothbard-MES.jpg
+  about: "Murray N. Rothbard's great treatise Man, Economy, and State and its complementary
+    text Power and Market, are here combined into a single edition as they were written
+    to be. It provides a sweeping presentation of Austrian economic theory, a reconstruction
+    of many aspects of that theory, a rigorous criticism of alternative schools, and
+    an inspiring look at a science of liberty that concerns nearly everything and
+    should concern everyone.\r\nThe Mises Institute's new edition of Man Economy,
+    and State, united with its formerly sundered companion volume Power and Market,
+    is a landmark in the history of the Institute. It takes this book out of the category
+    of underground classic and raises it up to its proper status as one of the great
+    economic treatises of all time, a book that is essential for anyone seeking a
+    robust economic education.\r\nThis new edition will take your breath away with
+    its beauty and quality. It's remarkable that a book this thick could lay so flat
+    and be so durable with super-solid binding. It somehow turns out not to be unweildy.
+    Get it with the Study Guide and you will have what you need.\r\nThe captivating
+    new introduction by Professor Joseph Salerno that frames up the Rothbardian contribution
+    in a completely new way, and reassesses the place of this book in the history
+    of economic thought. In Salerno's view, Rothbard was not attempting to write a
+    distinctively \"Austrian\" book but rather a comprehensive treatise on economics
+    that eschewed the Keynesian and positivist corruptions. This is what accounts
+    for its extraordinarily logical structure and depth. That it would later be called
+    Austrian is only due to the long-lasting nature of the corruptions of economics
+    that Rothbard tried to correct.\r\nFor years, the Mises Institute has kept it
+    in print and sold thousands of copies in a nice paperback version. Then we decided
+    to take a big step and put out an edition worthy of this great treatise. It is
+    the Scholar's Edition of Man, Economy, and State -an edition that immediately
+    became definitive and used throughout the world. The footnotes (which are so brilliant
+    and informative!) are at the bottom of every page. The index is huge and comprehensive.
+    The binding is impeccable and its beauty unmatched.\r\nStudents have used this
+    book for decades as the intellectual foil for what they have been required to
+    learning from conventional economics classes. In many ways, it has built the Austrian
+    school in the generation that followed Mises. It was Rothbard who polished the
+    Austrian contribution to theory and wove it together with a full-scale philosophy
+    of political ethics that inspired the generation of the Austrian revival, and
+    continues to fuel its growth and development today.\r\nFrom Rothbard, we learn
+    that economics is the science that deals with the rise and fall of civilization,
+    the advancement and retrenchment of human development, the feeding and healing
+    of the multitudes, and the question of whether human affairs are dominated by
+    cooperation or violence.\r\nEconomics in Rothbard's wonderful book emerges as
+    the beautiful logic of that underlies human action in a world of scarcity, the
+    lens on how exchange makes it possible for people to cooperate toward their mutual
+    betterment. We see how money facilitates this, and allows for calculation over
+    time that permits capital to expand and investment to take place. We see how entrepreneurship,
+    based on real judgments and risk taking, is the driving force of the market.\r\nWhat's
+    striking is how this remarkable book has lived in the shadows for so long. It
+    began as a guide to Human Action, and it swelled into a treatise in its own right.
+    [amazon.com]"
+  author_id: 4
+  created_at: '2015-01-27 22:55:25.188308'
+  updated_at: '2015-01-29 16:40:30.376130'
+  amazon_url: http://www.amazon.com/Man-Economy-State-Market-Scholars/dp/1933550279/ref=sr_1_1?ie=UTF8&qid=1422544070&sr=8-1&keywords=man+economy+and+state
+books_008:
+  id: 8
+  title: Ethics of Liberty
+  photo_url: http://ecx.images-amazon.com/images/I/51KMR61Z60L.jpg
+  about: "In recent years, libertarian impulses have increasingly influenced national
+    and economic debates, from welfare reform to efforts to curtail affirmative action.
+    Murray N. Rothbard's classic The Ethics of Liberty stands as one of the most rigorous
+    and philosophically sophisticated expositions of the libertarian political position.\r\nWhat
+    distinguishes Rothbard's book is the manner in which it roots the case for freedom
+    in the concept of natural rights and applies it to a host of practical problems.
+    An economist by profession, Rothbard here proves himself equally at home with
+    philosophy. And while his conclusions are radical—that a social order that strictly
+    adheres to the rights of private property must exclude the institutionalized violence
+    inherent in the state—his applications of libertarian principles prove surprisingly
+    practical for a host of social dilemmas, solutions to which have eluded alternative
+    traditions.\r\nThe Ethics of Liberty authoritatively established the anarcho-capitalist
+    economic system as the most viable and the only principled option for a social
+    order based on freedom. This edition is newly indexed and includes a new introduction
+    that takes special note of the Robert Nozick-Rothbard controversies. [amazon.com]"
+  author_id: 4
+  created_at: '2015-01-28 11:13:45.593009'
+  updated_at: '2015-01-29 16:41:40.198965'
+  amazon_url: http://www.amazon.com/Ethics-Liberty-Murray-N-Rothbard/dp/0814775594/ref=sr_1_1?ie=UTF8&qid=1422544052&sr=8-1&keywords=ethics+of+liberty
+books_009:
+  id: 9
+  title: America's Great Depression
+  photo_url: http://ecx.images-amazon.com/images/I/518Cq2OOZGL.jpg
+  about: America's Great Depression is the classic treatise on the 1930s Great Depression
+    and its root causes. Author Rothbard blames government interventionist policies
+    for magnifying the duration, breadth, and intensity of the Great Depression. He
+    explains how government manipulation of the money supply sets the stage for the
+    familiar "boom-bust" phases of the modern market which we know all too well. He
+    then details the inflationary policies of the Federal Reserve from 1921 to 1929
+    as evidence that the depression was essentially caused not by speculation, but
+    by government and central bank interference in the market. Clearly we find history
+    tragically repeating itself today. A must-read. [amazon.com]
+  author_id: 4
+  created_at: '2015-01-28 11:15:32.464225'
+  updated_at: '2015-01-29 16:42:25.036903'
+  amazon_url: http://www.amazon.com/Americas-Great-Depression-Murray-Rothbard/dp/146793481X/ref=sr_1_1?ie=UTF8&qid=1422544024&sr=8-1&keywords=america%27s+great+depression

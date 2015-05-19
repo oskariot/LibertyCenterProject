@@ -1,0 +1,9 @@
+<% title 'Category' %>
+<div class="page-header">
+  <h1>Category #<%= @category.name %> </h1>
+</div>
+<p>
+  <%= link_to 'View all Categories', categories_path %>
+</p>
+<%= render partial: 'shared/list_citations', locals: {citations_list: @category.citations} %>
+

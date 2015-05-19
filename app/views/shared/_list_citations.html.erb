@@ -1,0 +1,28 @@
+<table>
+  <% for citation in citations_list %>
+      <tr>
+        <td>
+          <blockquote>
+            <table>
+              <tr><p><%= citation.body %></p></tr>
+              <tr>
+                <td>
+                    <footer><%= link_to citation.author.name, author_path(citation.author.id) %>
+                       <cite>
+                         <%= render partial: 'shared/list_tags', locals: {tags: citation.categories.to_a} %>
+                       </cite>
+                    </footer>
+                </td>
+                <td>
+                  <div>
+                    <p><%= link_to 'show', citation, :class => 'btn btn-large btn-primary pull-right' %></p>
+                    <p><%= link_to 'share', citation, :class => 'btn btn-large btn-primary pull-right' %></p>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </blockquote>
+        </td>
+      </tr>
+  <% end %>
+</table>

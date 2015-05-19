@@ -1,0 +1,13 @@
+<% title "Categories" %>
+<div class="page-header">
+  <h1>Categories</h1>
+</div>
+<div class="category">
+<div class="btn-group-justified" role="group-justified" aria-label="">
+  <% @categories.each do |cat| %>
+    <a href=<%= category_path(cat.id) %> ><button type="button" class="btn btn-primary"><%= cat.name %>
+      <span class="badge"><%= cat.citations.count %></span></button></a>
+  <% end %>
+</div>
+</div>
+

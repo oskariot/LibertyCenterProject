@@ -1,0 +1,7 @@
+<% content_list.each_with_index do |object,index| %>
+  <div class="item <%= 'active' if index == 0 %>">
+    <a <%= href_to_object(content_list[0]) if link %>>
+      <img src=<%= object.photo_url %> class="img-responsive">
+    </a>
+  </div>
+<% end %>

@@ -1,0 +1,91 @@
+---
+liberty_translations_001:
+  id: 1
+  word: Wolność
+  lang: polish
+  created_at: '2015-01-27 19:18:02.864039'
+  updated_at: '2015-01-27 19:18:02.864039'
+liberty_translations_002:
+  id: 2
+  word: Sloboda
+  lang: slovak
+  created_at: '2015-01-27 19:18:45.327012'
+  updated_at: '2015-01-27 19:18:45.327012'
+liberty_translations_003:
+  id: 3
+  word: Libertas
+  lang: latin
+  created_at: '2015-01-27 19:18:52.909315'
+  updated_at: '2015-01-27 19:18:52.909315'
+liberty_translations_004:
+  id: 4
+  word: Fridom
+  lang: norwegian
+  created_at: '2015-01-27 19:19:31.825435'
+  updated_at: '2015-01-27 19:19:31.825435'
+liberty_translations_005:
+  id: 5
+  word: Vabadus
+  lang: estonian
+  created_at: '2015-01-27 19:20:12.435765'
+  updated_at: '2015-01-27 19:20:12.435765'
+liberty_translations_006:
+  id: 6
+  word: Frihet
+  lang: swedish
+  created_at: '2015-01-27 19:21:50.645689'
+  updated_at: '2015-01-27 19:21:50.645689'
+liberty_translations_007:
+  id: 7
+  word: "Özgürlük"
+  lang: turkish
+  created_at: '2015-01-27 19:57:51.186061'
+  updated_at: '2015-01-27 19:57:51.186061'
+liberty_translations_008:
+  id: 8
+  word: Vryheid
+  lang: afrikaans
+  created_at: '2015-01-27 22:31:30.139793'
+  updated_at: '2015-01-27 22:31:30.139793'
+liberty_translations_009:
+  id: 9
+  word: Tromanipe
+  lang: romani
+  created_at: '2015-01-27 22:37:07.738870'
+  updated_at: '2015-01-27 22:37:07.738870'
+liberty_translations_010:
+  id: 10
+  word: Libbirtati
+  lang: sicilian
+  created_at: '2015-01-27 22:37:20.960164'
+  updated_at: '2015-01-27 22:37:20.960164'
+liberty_translations_011:
+  id: 11
+  word: Vapaus
+  lang: finnish
+  created_at: '2015-01-27 22:37:48.499813'
+  updated_at: '2015-01-27 22:37:48.499813'
+liberty_translations_012:
+  id: 12
+  word: "Свобода"
+  lang: russian
+  created_at: '2015-01-27 22:38:34.270119'
+  updated_at: '2015-01-27 22:38:34.270119'
+liberty_translations_013:
+  id: 14
+  word: "آزادی"
+  lang: persian
+  created_at: '2015-01-27 22:40:07.215822'
+  updated_at: '2015-01-27 22:40:07.215822'
+liberty_translations_014:
+  id: 15
+  word: "རང་དབང་།"
+  lang: tibetan
+  created_at: '2015-01-27 22:40:28.112300'
+  updated_at: '2015-01-27 22:40:28.112300'
+liberty_translations_015:
+  id: 16
+  word: "自由"
+  lang: chinese
+  created_at: '2015-01-27 22:40:45.515311'
+  updated_at: '2015-01-27 22:40:51.841848'

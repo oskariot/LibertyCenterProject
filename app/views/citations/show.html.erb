@@ -1,0 +1,26 @@
+<% title 'Citation' %>
+<div class="page-header">
+  <h1>Citation <%= "##{@citation.id}" %></h1>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-md-12">
+    <blockquote>
+      <p>
+        <h3><%= @citation.body %></h3>
+      </p>
+        <footer>
+          <cite>
+            <h4>
+              <%= link_to @citation.author.name, author_path(@citation.author.id) %>
+              <%= ', '+@citation.source unless @citation.source.nil? or @citation.source.empty?  %>
+              <%= '('+@citation.published_at.year.to_s+')' unless @citation.published_at.nil?%>
+            </h4>
+          </cite>
+        </footer>
+      </blockquote>
+  </div>
+</div>
+<p>
+  <%= link_to 'View all Quotes', citations_path %>
+</p>

@@ -1,0 +1,41 @@
+---
+authors_001:
+  id: 1
+  name: Stefan Molyneux
+  created_at: '2015-01-24 22:07:22.622364'
+  updated_at: '2015-01-24 22:07:22.622364'
+authors_002:
+  id: 2
+  name: Adam Kokesh
+  created_at: '2015-01-24 22:07:22.781354'
+  updated_at: '2015-01-24 22:07:22.781354'
+authors_003:
+  id: 3
+  name: Ayn Rand
+  created_at: '2015-01-24 22:07:22.937555'
+  updated_at: '2015-01-24 22:07:22.937555'
+authors_004:
+  id: 4
+  name: Murray Rothbard
+  created_at: '2015-01-24 22:07:23.093755'
+  updated_at: '2015-01-24 22:07:23.093755'
+authors_005:
+  id: 5
+  name: Ludwig von Mises
+  created_at: '2015-01-24 22:07:23.227802'
+  updated_at: '2015-01-24 22:07:23.227802'
+authors_006:
+  id: 6
+  name: Voltaire
+  created_at: '2015-01-24 22:07:23.384124'
+  updated_at: '2015-01-24 22:07:23.384124'
+authors_007:
+  id: 7
+  name: Hans Hermann Hoppe
+  created_at: '2015-01-27 15:36:54.073261'
+  updated_at: '2015-01-27 15:36:54.073261'
+authors_008:
+  id: 8
+  name: Lysander Spooner
+  created_at: '2015-01-28 11:20:19.343365'
+  updated_at: '2015-01-28 11:20:19.343365'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails LibertyQuotes: development" uuid="d450b407-4f43-419c-8dc2-1d3f793c6c3f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails LibertyQuotes: test" uuid="f842c15f-86d8-431c-8768-8eae39c24445">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails LibertyQuotes: production" uuid="558850ca-8452-4b5b-9b7c-73964b8fa2ec">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
